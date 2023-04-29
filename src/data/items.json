@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://via.placeholder.com/360x360"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 100.99,
+    "imgUrl": "https://via.placeholder.com/360x360"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "price": 109.99,
+    "imgUrl": "https://via.placeholder.com/360x360"
+  },
+  {
+    "id": 4,
+    "name": "Apple",
+    "price": 2.99,
+    "imgUrl": "https://via.placeholder.com/360x360"
+  }
+]
